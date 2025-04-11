@@ -1,2 +1,4 @@
 include ':ffmpeg-kit-https'
+project(':ffmpeg-kit-https').projectDir = new File(rootProject.projectDir, 'ffmpeg-kit-https')
+
 rootProject.name = 'ffmpeg-kit-flutter-android'
