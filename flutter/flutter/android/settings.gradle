@@ -1,1 +1,2 @@
+include ':ffmpeg-kit-https'
 rootProject.name = 'ffmpeg-kit-flutter-android'
